@@ -2,14 +2,12 @@
 #EXTINF:-1,5 Канал
 http://portal.ott.pink/watch/7/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1,11 Kanal (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 https://11tv-dp.cdn-04.cosmonova.net.ua/hls/11tv-dp_ua_hi/index.m3u8
 #EXTINF:-1,24 Канал (1080p)
 https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:-1,100% News (576p)
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1,ATR (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 https://atr-live.cdn-01.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8
 #EXTINF:-1,Avers (480p)
 https://avers.pp.ua/hls/efir.m3u8
@@ -30,7 +28,6 @@ http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
 #EXTINF:-1,EWTN Ukraine (1080p)
 https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
 #EXTINF:-1,First Business (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 https://pershij-dlovij.cdn-01.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
 #EXTINF:-1,Freedom (FREEДOM) (UATV) (720p)
 https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
@@ -63,7 +60,6 @@ https://edge2.iptv.macc.com.ua/life/k1_2/index.m3u8
 #EXTINF:-1,K2 [Geo-blocked]
 http://212.28.87.173:8000/play/a10y/index.m3u8
 #EXTINF:-1,Kanal Dom (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 https://kanaldom.cdn-05.cosmonova.net.ua/hls/kanaldom_ua_hi/index.m3u8
 #EXTINF:-1,Lugansk 24 (1084p)
 https://tv.gtrklnr.ru/hls/Lugansk24.m3u8
@@ -88,7 +84,6 @@ https://stream.rai.ua/rai/stream.m3u8
 #EXTINF:-1,TIS TV (720p)
 https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
 #EXTINF:-1,TRK Ildana (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 https://pravdatytkyiv.cdn-01.cosmonova.net.ua/hls/pradva-tut-ildana_ua_hi/index.m3u8
 #EXTINF:-1,TRK Krug (576p)
 http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
@@ -103,7 +98,6 @@ http://89.254.128.5:22280/viasat_kino/index.m3u8
 #EXTINF:-1,Viasat Kino Action (576p)
 http://89.254.128.5:22280/viasat_kino_action/index.m3u8
 #EXTINF:-1,VITA TV (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 https://vitatv.cdn-05.cosmonova.net.ua/hls/vitatv_ua_hi/index.m3u8
 #EXTINF:-1,Z (Запорожье) (1080p)
 https://stream.ztv.zp.ua/hls/live.m3u8
@@ -156,7 +150,6 @@ http://91.194.79.46:8081/stream2/channel2/playlist.m3u8
 #EXTINF:-1,Полтавское ТВ
 http://cdn10.live-tv.od.ua:8081/hrpl/hrpl-abr/playlist.m3u8
 #EXTINF:-1,ПравдаТУТ (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 https://pravdatytkievshina.cdn-02.cosmonova.net.ua/hls/pravdatytkievshina_ua.m3u8
 #EXTINF:-1,ПравдаТУТ (720p)
 https://pravdatytkievshina.cdn-02.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
@@ -179,7 +172,6 @@ http://portal.ott.pink/watch/7592/index.m3u8?geo=auto&token=CFEADF9789D77A45B3B3
 #EXTINF:-1,Сфера ТВ
 http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8
 #EXTINF:-1,Сфера-ТВ (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8
 #EXTINF:-1,ТВА (Чернiвцi) (576p)
 http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
@@ -192,7 +184,6 @@ https://ott.columbus.te.ua/ternopil1/index.m3u8
 #EXTINF:-1,ТРК Алекс (576p)
 http://46.46.112.223/live/livestream1.m3u8
 #EXTINF:-1,Тюсо (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
 #EXTINF:-1,Уніaн
 http://portal.ott.pink/watch/236/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
