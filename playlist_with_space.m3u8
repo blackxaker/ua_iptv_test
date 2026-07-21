@@ -1,0 +1,271 @@
+#EXTM3U name="UAinet IPTV" deinterlace=1 url-tvg="http://anterra.tv.uainet.net/jtv.zip" tvg-shift=0
+#EXTINF:-1 id=33 tvg-logo="http://anterra.tv.uainet.net/channel_logo/1_1.png" group-title="Розважальні", 1+1
+http://193.107.168.98:7777/33.m3u8
+#EXTINF:-1 id=539 tvg-logo="http://anterra.tv.uainet.net/channel_logo/1_1_HD.png" group-title="Розважальні", 1+1 HD
+http://193.107.168.98:7777/539.m3u8
+#EXTINF:-1 id=472 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0.png" group-title="Інформаційні", Україна
+http://193.107.168.98:7777/472.m3u8
+#EXTINF:-1 id=540 tvg-logo="http://anterra.tv.uainet.net/channel_logo/ICTV_HD.png" group-title="Розважальні", ICTV HD
+http://193.107.168.98:7777/540.m3u8
+#EXTINF:-1 id=541 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%A1%D0%A2%D0%91_HD.png" group-title="Розважальні", СТБ HD
+http://193.107.168.98:7777/541.m3u8
+#EXTINF:-1 id=543 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%9D%D0%BE%D0%B2%D0%B8%D0%B9_%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB_HD.png" group-title="Розважальні", Новий Канал HD
+http://193.107.168.98:7777/543.m3u8
+#EXTINF:-1 id=38 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%86%D0%BD%D1%82%D0%B5%D1%80.png" group-title="Розважальні", Інтер
+http://193.107.168.98:7777/38.m3u8
+#EXTINF:-1 id=20 tvg-logo="http://anterra.tv.uainet.net/channel_logo/2_2.png" group-title="Розважальні", 2+2
+http://193.107.168.98:7777/20.m3u8
+#EXTINF:-1 id=19 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%A2%D0%95%D0%A2.png" group-title="Розважальні", ТЕТ
+http://193.107.168.98:7777/19.m3u8
+#EXTINF:-1 id=39 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%9D%D0%A2%D0%9D.png" group-title="Розважальні", НТН
+http://193.107.168.98:7777/39.m3u8
+#EXTINF:-1 id=40 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%9A1.png" group-title="Розважальні", К1
+http://193.107.168.98:7777/40.m3u8
+#EXTINF:-1 id=44 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%9A2.png" group-title="Розважальні", К2
+http://193.107.168.98:7777/44.m3u8
+#EXTINF:-1 id=475 tvg-logo="http://anterra.tv.uainet.net/channel_logo/KvartalTV.png" group-title="Розважальні", KvartalTV
+http://193.107.168.98:7777/475.m3u8
+#EXTINF:-1 id=187 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%86%D0%BD%D0%B4%D0%B8%D0%B3%D0%BE_TV.png" group-title="Розважальні", Індиго TV
+http://193.107.168.98:7777/187.m3u8
+#EXTINF:-1 id=542 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%9E%D0%A6%D0%95_%D0%A2%D0%91_HD.png" group-title="Дитячі", ОЦЕ ТБ HD
+http://193.107.168.98:7777/542.m3u8
+#EXTINF:-1 id=87 tvg-logo="http://anterra.tv.uainet.net/channel_logo/TLC.png" group-title="Пізнавальні", TLC
+http://193.107.168.98:7777/87.m3u8
+#EXTINF:-1 id=140 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%9D%D0%9B%D0%9E_TV.png" group-title="Розважальні", НЛО-TV
+http://193.107.168.98:7777/140.m3u8
+#EXTINF:-1 id=42 tvg-logo="http://anterra.tv.uainet.net/channel_logo/Zoom.png" group-title="Розважальні", Zoom
+http://193.107.168.98:7777/42.m3u8
+#EXTINF:-1 id=237 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%9F%D0%BB%D1%8E%D1%81_%D0%9F%D0%BB%D1%8E%D1%81.png" group-title="Дитячі", Плюс-Плюс
+http://193.107.168.98:7777/237.m3u8
+#EXTINF:-1 id=45 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%9F%D1%96%D0%BA%D1%81%D0%B5%D0%BB%D1%8C.png" group-title="Дитячі", Піксель
+http://193.107.168.98:7777/45.m3u8
+#EXTINF:-1 id=93 tvg-logo="http://anterra.tv.uainet.net/channel_logo/Nickelodeon.png" group-title="Дитячі", Nickelodeon
+http://193.107.168.98:7777/93.m3u8
+#EXTINF:-1 id=25 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%9C%D0%B0%D0%BB%D1%8F%D1%82%D0%BA%D0%BE_%D0%A2%D0%92.png" group-title="Дитячі", Малятко ТВ
+http://193.107.168.98:7777/25.m3u8
+#EXTINF:-1 id=457 tvg-logo="http://anterra.tv.uainet.net/channel_logo/NIKI_Kids.png" group-title="Дитячі", NIKI Kids
+http://193.107.168.98:7777/457.m3u8
+#EXTINF:-1 id=458 tvg-logo="http://anterra.tv.uainet.net/channel_logo/NIKI_Kids_HD.png" group-title="Дитячі", NIKI Kids HD
+http://193.107.168.98:7777/458.m3u8
+#EXTINF:-1 id=455 tvg-logo="http://anterra.tv.uainet.net/channel_logo/NIKI_Junior.png" group-title="Дитячі", NIKI Junior
+http://193.107.168.98:7777/455.m3u8
+#EXTINF:-1 id=456 tvg-logo="http://anterra.tv.uainet.net/channel_logo/NIKI_Junior_HD.png" group-title="Дитячі", NIKI Junior HD
+http://193.107.168.98:7777/456.m3u8
+#EXTINF:-1 id=245 tvg-logo="http://anterra.tv.uainet.net/channel_logo/Cartoon_Network.png" group-title="Дитячі", Cartoon Network
+http://193.107.168.98:7777/245.m3u8
+#EXTINF:-1 id=327 tvg-logo="http://anterra.tv.uainet.net/channel_logo/Boomerang.png" group-title="Дитячі", Boomerang
+http://193.107.168.98:7777/327.m3u8
+#EXTINF:-1 id=272 tvg-logo="http://anterra.tv.uainet.net/channel_logo/Lale.png" group-title="Дитячі", Lale
+http://193.107.168.98:7777/272.m3u8
+#EXTINF:-1 id=521 tvg-logo="http://anterra.tv.uainet.net/channel_logo/Fox.png" group-title="Інформаційні", Fox
+http://193.107.168.98:7777/521.m3u8
+#EXTINF:-1 id=522 tvg-logo="http://anterra.tv.uainet.net/channel_logo/Fox_Life.png" group-title="Інформаційні", Fox Life
+http://193.107.168.98:7777/522.m3u8
+#EXTINF:-1 id=339 tvg-logo="http://anterra.tv.uainet.net/channel_logo/FilmBox.png" group-title="Кіно", FilmBox
+http://193.107.168.98:7777/339.m3u8
+#EXTINF:-1 id=269 tvg-logo="http://anterra.tv.uainet.net/channel_logo/TV1000_Action.png" group-title="Кіно", TV1000 Action
+http://193.107.168.98:7777/269.m3u8
+#EXTINF:-1 id=525 tvg-logo="http://anterra.tv.uainet.net/channel_logo/TV1000.png" group-title="Кіно", TV1000
+http://193.107.168.98:7777/525.m3u8
+#EXTINF:-1 id=553 tvg-logo="http://anterra.tv.uainet.net/channel_logo/Paramount_Channel.png" group-title="Кіно", Paramount Channel
+http://193.107.168.98:7777/553.m3u8
+#EXTINF:-1 id=464 tvg-logo="http://anterra.tv.uainet.net/channel_logo/Star_Cinema.png" group-title="Кіно", Star Cinema
+http://193.107.168.98:7777/464.m3u8
+#EXTINF:-1 id=270 tvg-logo="http://anterra.tv.uainet.net/channel_logo/VIP_Comedy.png" group-title="Кіно", VIP Comedy
+http://193.107.168.98:7777/270.m3u8
+#EXTINF:-1 id=63 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%91%D1%96%D0%B3%D1%83%D0%B4%D1%96.png" group-title="Розважальні", Бігуді
+http://193.107.168.98:7777/63.m3u8
+#EXTINF:-1 id=529 tvg-logo="http://anterra.tv.uainet.net/channel_logo/Sony_Channel.png" group-title="Кіно", Sony Channel
+http://193.107.168.98:7777/529.m3u8
+#EXTINF:-1 id=530 tvg-logo="http://anterra.tv.uainet.net/channel_logo/Sony_Sci_Fi.png" group-title="Кіно", Sony Sci Fi
+http://193.107.168.98:7777/530.m3u8
+#EXTINF:-1 id=528 tvg-logo="http://anterra.tv.uainet.net/channel_logo/Sony_Turbo.png" group-title="Кіно", Sony Turbo
+http://193.107.168.98:7777/528.m3u8
+#EXTINF:-1 id=170 tvg-logo="http://anterra.tv.uainet.net/channel_logo/Paramount_Comedy.png" group-title="Кіно", Paramount Comedy
+http://193.107.168.98:7777/170.m3u8
+#EXTINF:-1 id=43 tvg-logo="http://anterra.tv.uainet.net/channel_logo/Enter_%D0%A4%D1%96%D0%BB%D1%8C%D0%BC.png" group-title="Кіно", Enter Фільм
+http://193.107.168.98:7777/43.m3u8
+#EXTINF:-1 id=564 tvg-logo="http://anterra.tv.uainet.net/channel_logo/Amedia_Classi%D1%81_HD.png" group-title="Кіно", Amedia Classiс HD
+http://193.107.168.98:7777/564.m3u8
+#EXTINF:-1 id=41 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%9C%D0%B5%D0%B3%D0%B0.png" group-title="Розважальні", Мега
+http://193.107.168.98:7777/41.m3u8
+#EXTINF:-1 id=81 tvg-logo="http://anterra.tv.uainet.net/channel_logo/National_Geographic.png" group-title="Документальні", National Geographic
+http://193.107.168.98:7777/81.m3u8
+#EXTINF:-1 id=330 tvg-logo="http://anterra.tv.uainet.net/channel_logo/Discovery_Channel.png" group-title="Пізнавальні", Discovery Channel
+http://193.107.168.98:7777/330.m3u8
+#EXTINF:-1 id=262 tvg-logo="http://anterra.tv.uainet.net/channel_logo/Viasat_Explorer.png" group-title="Viasat", Viasat Explorer
+http://193.107.168.98:7777/262.m3u8
+#EXTINF:-1 id=263 tvg-logo="http://anterra.tv.uainet.net/channel_logo/Viasat_History.png" group-title="Пізнавальні", Viasat History
+http://193.107.168.98:7777/263.m3u8
+#EXTINF:-1 id=82 tvg-logo="http://anterra.tv.uainet.net/channel_logo/Nat_Geo_Wild.png" group-title="Документальні", Nat Geo Wild
+http://193.107.168.98:7777/82.m3u8
+#EXTINF:-1 id=88 tvg-logo="http://anterra.tv.uainet.net/channel_logo/Animal_Planet.png" group-title="Пізнавальні", Animal Planet
+http://193.107.168.98:7777/88.m3u8
+#EXTINF:-1 id=405 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%A4%D0%B0%D1%83%D0%BD%D0%B0.png" group-title="Пізнавальні", Фауна
+http://193.107.168.98:7777/405.m3u8
+#EXTINF:-1 id=400 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0.png" group-title="Пізнавальні", Наука
+http://193.107.168.98:7777/400.m3u8
+#EXTINF:-1 id=74 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%95%D0%BA%D0%BE_%D0%A2%D0%92.png" group-title="Пізнавальні", Еко ТВ
+http://193.107.168.98:7777/74.m3u8
+#EXTINF:-1 id=401 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%95%D0%BF%D0%BE%D1%85%D0%B0.png" group-title="Пізнавальні", Епоха
+http://193.107.168.98:7777/401.m3u8
+#EXTINF:-1 id=399 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%A2%D0%B5%D1%80%D1%80%D0%B0.png" group-title="Пізнавальні", Терра
+http://193.107.168.98:7777/399.m3u8
+#EXTINF:-1 id=137 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB_1.png" group-title="Спортивні", Футбол 1
+http://193.107.168.98:7777/137.m3u8
+#EXTINF:-1 id=515 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB_1_HD.png" group-title="Спортивні", Футбол 1 HD
+http://193.107.168.98:7777/515.m3u8
+#EXTINF:-1 id=139 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB_2.png" group-title="Спортивні", Футбол 2
+http://193.107.168.98:7777/139.m3u8
+#EXTINF:-1 id=516 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB_2_HD.png" group-title="Спортивні", Футбол 2 HD
+http://193.107.168.98:7777/516.m3u8
+#EXTINF:-1 id=546 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB_3.png" group-title="Спортивні", Футбол 3
+http://193.107.168.98:7777/546.m3u8
+#EXTINF:-1 id=554 tvg-logo="http://anterra.tv.uainet.net/channel_logo/SHAKHTAR_TV.png" group-title="Спортивні", SHAKHTAR TV
+http://193.107.168.98:7777/554.m3u8
+#EXTINF:-1 id=514 tvg-logo="http://anterra.tv.uainet.net/channel_logo/Setanta_Sports.png" group-title="Спортивні", Setanta Sports
+http://193.107.168.98:7777/514.m3u8
+#EXTINF:-1 id=547 tvg-logo="http://anterra.tv.uainet.net/channel_logo/Setanta_Sports_.png" group-title="Спортивні", Setanta Sports+
+http://193.107.168.98:7777/547.m3u8
+#EXTINF:-1 id=75 tvg-logo="http://anterra.tv.uainet.net/channel_logo/Eurosport.png" group-title="Спортивні", Eurosport
+http://193.107.168.98:7777/75.m3u8
+#EXTINF:-1 id=390 tvg-logo="http://anterra.tv.uainet.net/channel_logo/MostVideo_TV_HD.png" group-title="Пізнавальні", MostVideo.TV HD
+http://193.107.168.98:7777/390.m3u8
+#EXTINF:-1 id=276 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%A2%D1%80%D0%BE%D1%84%D0%B5%D0%B9.png" group-title="Полювання та рибалка", Трофей
+http://193.107.168.98:7777/276.m3u8
+#EXTINF:-1 id=555 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%A0%D0%B8%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0_%D0%A2%D0%92.png" group-title="Полювання та рибалка", Рибалка ТВ
+http://193.107.168.98:7777/555.m3u8
+#EXTINF:-1 id=69 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%9F%D0%B5%D1%80%D1%88%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D1%96%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9.png" group-title="Пізнавальні", Перший автомобільний
+http://193.107.168.98:7777/69.m3u8
+#EXTINF:-1 id=295 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%94%D0%B0%D1%87%D0%B0.png" group-title="Пізнавальні", Дача
+http://193.107.168.98:7777/295.m3u8
+#EXTINF:-1 id=51 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%9C1.png" group-title="Музикальні", М1
+http://193.107.168.98:7777/51.m3u8
+#EXTINF:-1 id=55 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%9C2.png" group-title="Музикальні", М2
+http://193.107.168.98:7777/55.m3u8
+#EXTINF:-1 id=116 tvg-logo="http://anterra.tv.uainet.net/channel_logo/EU_Music.png" group-title="Музикальні", EU Music
+http://193.107.168.98:7777/116.m3u8
+#EXTINF:-1 id=374 tvg-logo="http://anterra.tv.uainet.net/channel_logo/Eu_Music_HD.png" group-title="Музикальні", Eu Music HD
+http://193.107.168.98:7777/374.m3u8
+#EXTINF:-1 id=527 tvg-logo="http://anterra.tv.uainet.net/channel_logo/4EVER_Music.png" group-title="Музикальні", 4EVER Music
+http://193.107.168.98:7777/527.m3u8
+#EXTINF:-1 id=32 tvg-logo="http://anterra.tv.uainet.net/channel_logo/O_TV.png" group-title="Музикальні", O-TV
+http://193.107.168.98:7777/32.m3u8
+#EXTINF:-1 id=548 tvg-logo="http://anterra.tv.uainet.net/channel_logo/Megogo_live.png" group-title="Музикальні", Megogo live
+http://193.107.168.98:7777/548.m3u8
+#EXTINF:-1 id=392 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%9D%D0%90%D0%A8%D0%95_MUSIC_HD.png" group-title="Музикальні", НАШЕ MUSIC HD
+http://193.107.168.98:7777/392.m3u8
+#EXTINF:-1 id=537 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%9D%D0%B0%D1%88_HD.png" group-title="Інформаційні", Наш HD
+http://193.107.168.98:7777/537.m3u8
+#EXTINF:-1 id=534 tvg-logo="http://anterra.tv.uainet.net/channel_logo/Fashion_TV_HD.png" group-title="FASHION", Fashion TV HD
+http://193.107.168.98:7777/534.m3u8
+#EXTINF:-1 id=393 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%95%D0%A2%D0%9D%D0%9E_%D0%9A%D0%90%D0%9D%D0%90%D0%9B_HD.png" group-title="Музикальні", ЕТНО КАНАЛ HD
+http://193.107.168.98:7777/393.m3u8
+#EXTINF:-1 id=531 tvg-logo="http://anterra.tv.uainet.net/channel_logo/In_Rating.png" group-title="Музикальні", In Rating
+http://193.107.168.98:7777/531.m3u8
+#EXTINF:-1 id=336 tvg-logo="http://anterra.tv.uainet.net/channel_logo/FashionBox.png" group-title="FASHION", FashionBox
+http://193.107.168.98:7777/336.m3u8
+#EXTINF:-1 id=549 tvg-logo="http://anterra.tv.uainet.net/channel_logo/Genuine_TV.png" group-title="Розважальні", Genuine TV
+http://193.107.168.98:7777/549.m3u8
+#EXTINF:-1 id=533 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%9A%D1%83%D1%81_%D0%9A%D1%83%D1%81.png" group-title="Розважальні", Кус Кус
+http://193.107.168.98:7777/533.m3u8
+#EXTINF:-1 id=526 tvg-logo="http://anterra.tv.uainet.net/channel_logo/UA_%D0%9F%D0%B5%D1%80%D1%88%D0%B8%D0%B9_HD.png" group-title="Інформаційні", UA:Перший HD
+http://193.107.168.98:7777/526.m3u8
+#EXTINF:-1 id=68 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%9F%D1%80%D1%8F%D0%BC%D0%B8%D0%B9.png" group-title="Інформаційні", Прямий
+http://193.107.168.98:7777/68.m3u8
+#EXTINF:-1 id=333 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%95%D1%81%D0%BF%D1%80%D0%B5%D1%81%D0%BE_TV_HD.png" group-title="Інформаційні", Еспресо TV HD
+http://193.107.168.98:7777/333.m3u8
+#EXTINF:-1 id=550 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%90%D0%BF%D0%BE%D1%81%D1%82%D1%80%D0%BE%D1%84.png" group-title="Інформаційні", Апостроф
+http://193.107.168.98:7777/550.m3u8
+#EXTINF:-1 id=551 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%90%D0%BF%D0%BE%D1%81%D1%82%D1%80%D0%BE%D1%84_HD.png" group-title="Інформаційні", Апостроф HD
+http://193.107.168.98:7777/551.m3u8
+#EXTINF:-1 id=26 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%9F_%D1%8F%D1%82%D0%B8%D0%B9_%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB.png" group-title="Інформаційні", П’ятий Канал
+http://193.107.168.98:7777/26.m3u8
+#EXTINF:-1 id=518 tvg-logo="http://anterra.tv.uainet.net/channel_logo/12_%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB.png" group-title="Інформаційні", 12 Канал
+http://193.107.168.98:7777/518.m3u8
+#EXTINF:-1 id=31 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%A3%D0%BD%D1%96%D0%B0%D0%BD_%D0%A2%D0%92.png" group-title="Інформаційні", Уніан ТВ
+http://193.107.168.98:7777/31.m3u8
+#EXTINF:-1 id=517 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0_24.png" group-title="Інформаційні", Україна 24
+http://193.107.168.98:7777/517.m3u8
+#EXTINF:-1 id=71 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%A7%D0%9F_INFO.png" group-title="Інформаційні", ЧП.INFO
+http://193.107.168.98:7777/71.m3u8
+#EXTINF:-1 id=461 tvg-logo="http://anterra.tv.uainet.net/channel_logo/OBOZ_TV.png" group-title="Розважальні", OBOZ TV
+http://193.107.168.98:7777/461.m3u8
+#EXTINF:-1 id=354 tvg-logo="http://anterra.tv.uainet.net/channel_logo/Rabinovich_TV.png" group-title="Інформаційні", Rabinovich TV
+http://193.107.168.98:7777/354.m3u8
+#EXTINF:-1 id=29 tvg-logo="http://anterra.tv.uainet.net/channel_logo/8_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB.png" group-title="Інформаційні", 8 канал
+http://193.107.168.98:7777/29.m3u8
+#EXTINF:-1 id=57 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%9F%D0%B5%D1%80%D1%88%D0%B8%D0%B9_%D0%B4%D1%96%D0%BB%D0%BE%D0%B2%D0%B8%D0%B9.png" group-title="Шопінг", Перший діловий
+http://193.107.168.98:7777/57.m3u8
+#EXTINF:-1 id=556 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%86%D1%81%D0%BB%D0%B0%D0%BD%D0%B4%D1%96%D1%8F.png" group-title="Інформаційні", Ісландія
+http://193.107.168.98:7777/556.m3u8
+#EXTINF:-1 id=557 tvg-logo="http://anterra.tv.uainet.net/channel_logo/ATR_HD.png" group-title="Інформаційні", ATR HD
+http://193.107.168.98:7777/557.m3u8
+#EXTINF:-1 id=558 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%B5_%D0%B2%D1%80%D0%B5%D0%BC%D1%8F_HD.png" group-title="Інформаційні", Настоящее время HD
+http://193.107.168.98:7777/558.m3u8
+#EXTINF:-1 id=559 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%94%D0%BE%D0%BD%D0%B1%D0%B0%D1%81%D1%81_Online.png" group-title="Інформаційні", Донбасс Online
+http://193.107.168.98:7777/559.m3u8
+#EXTINF:-1 id=561 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%A1%D0%B2%D0%B0%D1%80%D0%BE%D0%B6%D0%B8%D1%87%D0%B8_%D0%A2%D0%92.png" group-title="Інформаційні", Сварожичи ТВ
+http://193.107.168.98:7777/561.m3u8
+#EXTINF:-1 id=532 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%9F%D1%80%D0%B0%D0%B2%D0%B4%D0%B0_%D1%82%D1%83%D1%82_%D0%9B%D1%8C%D0%B2%D1%96%D0%B2.png" group-title="Інформаційні", Правда тут Львів
+http://193.107.168.98:7777/532.m3u8
+#EXTINF:-1 id=24 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%A0%D0%B0%D0%B4%D0%B0.png" group-title="Інформаційні", Рада
+http://193.107.168.98:7777/24.m3u8
+#EXTINF:-1 id=161 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%90%D0%B2%D0%B5%D1%80%D1%81.png" group-title="Інформаційні", Аверс
+http://193.107.168.98:7777/161.m3u8
+#EXTINF:-1 id=508 tvg-logo="http://anterra.tv.uainet.net/channel_logo/UA_%D0%92%D0%BE%D0%BB%D0%B8%D0%BD%D1%8C.png" group-title="Інформаційні", UA:Волинь
+http://193.107.168.98:7777/508.m3u8
+#EXTINF:-1 id=436 tvg-logo="http://anterra.tv.uainet.net/channel_logo/UA_%D0%9A%D1%80%D0%B8%D0%BC.png" group-title="Інформаційні", UA:Крим
+http://193.107.168.98:7777/436.m3u8
+#EXTINF:-1 id=287 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%A2%D0%A0%D0%9A_%D0%9A%D0%B8%D1%97%D0%B2.png" group-title="Інформаційні", ТРК Київ
+http://193.107.168.98:7777/287.m3u8
+#EXTINF:-1 id=299 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%9F%D0%B5%D1%80%D1%88%D0%B8%D0%B9_%D0%97%D0%B0%D1%85%D1%96%D0%B4%D0%BD%D0%B8%D0%B9.png" group-title="Інформаційні", Перший Західний
+http://193.107.168.98:7777/299.m3u8
+#EXTINF:-1 id=323 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%A2%D0%A0%D0%9A.png" group-title="Інформаційні", Черноморская ТРК
+http://193.107.168.98:7777/323.m3u8
+#EXTINF:-1 id=28 tvg-logo="http://anterra.tv.uainet.net/channel_logo/ATR.png" group-title="Інформаційні", ATR
+http://193.107.168.98:7777/28.m3u8
+#EXTINF:-1 id=520 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%94%D0%BE%D0%BD%D0%B5%D1%87%D1%87%D0%B8%D0%BD%D0%B0_%D0%A2%D0%92.png" group-title="Інформаційні", Донеччина ТВ
+http://193.107.168.98:7777/520.m3u8
+#EXTINF:-1 id=286 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%90%D0%A2%D0%9C.png" group-title="Інформаційні", АТМ
+http://193.107.168.98:7777/286.m3u8
+#EXTINF:-1 id=442 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%B5_%D0%92%D1%80%D0%B5%D0%BC%D1%8F.png" group-title="Інформаційні", Настоящее Время
+http://193.107.168.98:7777/442.m3u8
+#EXTINF:-1 id=491 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%9D%D0%B0%D1%82%D0%B0%D0%BB%D1%96.png" group-title="Розважальні", Наталі
+http://193.107.168.98:7777/491.m3u8
+#EXTINF:-1 id=352 tvg-logo="http://anterra.tv.uainet.net/channel_logo/Milady_Television.png" group-title="Шопінг", Milady Television
+http://193.107.168.98:7777/352.m3u8
+#EXTINF:-1 id=441 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD_TV.png" group-title="Розважальні", Караван TV
+http://193.107.168.98:7777/441.m3u8
+#EXTINF:-1 id=190 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%92%D1%96%D0%BD%D1%82%D0%B0%D0%B6_%D0%A2%D0%92.png" group-title="Розважальні", Вінтаж ТВ
+http://193.107.168.98:7777/190.m3u8
+#EXTINF:-1 id=423 tvg-logo="http://anterra.tv.uainet.net/channel_logo/Bambarbia_HD.png" group-title="Розважальні", Bambarbia HD
+http://193.107.168.98:7777/423.m3u8
+#EXTINF:-1 id=370 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D1%81%D0%B5%D1%81%D0%B2%D1%96%D1%82_HD.png" group-title="Розважальні", Телевсесвіт HD
+http://193.107.168.98:7777/370.m3u8
+#EXTINF:-1 id=72 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0.png" group-title="Пізнавальні", Культура
+http://193.107.168.98:7777/72.m3u8
+#EXTINF:-1 id=474 tvg-logo="http://anterra.tv.uainet.net/channel_logo/36_6_SD.png" group-title="Розважальні", 36.6 SD
+http://193.107.168.98:7777/474.m3u8
+#EXTINF:-1 id=274 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%9D%D0%B0%D0%B4%D1%96%D1%8F.png" group-title="Релігія", Надія
+http://193.107.168.98:7777/274.m3u8
+#EXTINF:-1 id=112 tvg-logo="http://anterra.tv.uainet.net/channel_logo/CNL_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0.png" group-title="Релігія", CNL Україна
+http://193.107.168.98:7777/112.m3u8
+#EXTINF:-1 id=22 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%93%D0%BB%D0%B0%D1%81.png" group-title="Релігія", Глас
+http://193.107.168.98:7777/22.m3u8
+#EXTINF:-1 id=424 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%9F%D0%B5%D1%80%D1%88%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE_%D1%80%D0%B0%D0%B4%D1%96%D0%BE.png" group-title="Інформаційні", Перший канал Українського радіо
+http://193.107.168.98:7777/424.m3u8
+#EXTINF:-1 id=425 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%94%D1%80%D1%83%D0%B3%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_%D0%9F%D1%80%D0%BE%D0%BC%D1%96%D0%BD%D1%8C.png" group-title="Інформаційні", Другий канал Промінь
+http://193.107.168.98:7777/425.m3u8
+#EXTINF:-1 id=426 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%A2%D1%80%D0%B5%D1%82%D1%96%D0%B9_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0.png" group-title="Інформаційні", Третій канал Культура
+http://193.107.168.98:7777/426.m3u8
+#EXTINF:-1 id=353 tvg-logo="http://anterra.tv.uainet.net/channel_logo/Music_Box_HD.png" group-title="Музикальні", Music Box HD
+http://193.107.168.98:7777/353.m3u8
+#EXTINF:-1 id=462 tvg-logo="http://anterra.tv.uainet.net/channel_logo/OBOZ_TV_HD.png" group-title="Розважальні", OBOZ TV HD
+http://193.107.168.98:7777/462.m3u8
+#EXTINF:-1 id=285 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%9F%D0%BE%D0%BB%D1%96%D1%81%D1%81%D1%8F_TV.png" group-title="Інформаційні", Полісся TV
+http://193.107.168.98:7777/285.m3u8
+#EXTINF:-1 id=162 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE_%D0%92%D0%BE%D0%BB%D0%B8%D0%BD%D1%96.png" group-title="Інформаційні", Слово Волині
+http://193.107.168.98:7777/162.m3u8
+#EXTINF:-1 id=34 tvg-logo="http://anterra.tv.uainet.net/channel_logo/%D0%9A%D0%B8%D1%97%D0%B2_%D0%A2%D0%92.png" group-title="Інформаційні", Київ ТВ
+http://193.107.168.98:7777/34.m3u8
